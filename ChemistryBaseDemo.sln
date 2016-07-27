@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChemistryBaseDemo.CSharp.Plugins", "ChemistryBaseDemo.CSharp.Plugins.csproj", "{873687A0-977D-C7AC-3F78-B43781D169AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChemistryBaseDemo.CSharp", "ChemistryBaseDemo.CSharp.csproj", "{4B900E4F-C5EC-80C2-C2E0-2338FC5AD1A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChemistryBaseDemo.CSharp.Editor", "ChemistryBaseDemo.CSharp.Editor.csproj", "{F6441BEE-2918-F4AD-988E-DA7670665C39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{873687A0-977D-C7AC-3F78-B43781D169AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873687A0-977D-C7AC-3F78-B43781D169AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873687A0-977D-C7AC-3F78-B43781D169AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873687A0-977D-C7AC-3F78-B43781D169AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B900E4F-C5EC-80C2-C2E0-2338FC5AD1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B900E4F-C5EC-80C2-C2E0-2338FC5AD1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B900E4F-C5EC-80C2-C2E0-2338FC5AD1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B900E4F-C5EC-80C2-C2E0-2338FC5AD1A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6441BEE-2918-F4AD-988E-DA7670665C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6441BEE-2918-F4AD-988E-DA7670665C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6441BEE-2918-F4AD-988E-DA7670665C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6441BEE-2918-F4AD-988E-DA7670665C39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
